@@ -3,7 +3,7 @@
 Unleash the power of AI to generate captivating images. Chitra_Generator not only empowers you to generate awe-inspiring AI-generated images but also allows you to share your creations with our vibrant community.
 
 ## Demo
-
+https://chitra-generator-himanshu.netlify.app
 
 
 
