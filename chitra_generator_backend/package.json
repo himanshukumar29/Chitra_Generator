@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imvktiwari/chitra_generator.git"
+    "url": "git+https://github.com/himanshukumar29/chitra_generator.git"
   },
-  "author": "Vaibhav Kumar Tiwari",
+  "author": "Himanshu Kumar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/imvktiwari/chitra_generator/issues"
+    "url": "https://github.com/himanshukumar29/chitra_generator/issues"
   },
-  "homepage": "https://github.com/imvktiwari/chitra_generator#readme",
+  "homepage": "https://github.com/himanshukumar29/chitra_generator#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "body-parser": "^1.20.2",
