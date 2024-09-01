@@ -39,7 +39,7 @@ export default function Header() {
     const toggleShow = () => setBasicModal(!basicModal);
     //Updating Perssonal Information
     const [editing, setEditing] = useState(false);
-    const BACKEND_BASE_URL = "https://chitra-generator-backend.onrender.com";
+    const BACKEND_BASE_URL = "https://chitra-generator-backend-wqo1.onrender.com";
     const LoggedInEmail = localStorage.getItem("chitra_generator");
 
     //Getting User's Information

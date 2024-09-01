@@ -37,7 +37,7 @@ const Home = () => {
     const [basicModal, setBasicModal] = useState(false);
     const toggleShow = () => setBasicModal(!basicModal);
 
-    const BACKEND_BASE_URL = "https://chitra-generator-backend.onrender.com";
+    const BACKEND_BASE_URL = "https://chitra-generator-backend-wqo1.onrender.com";
     const navigate = useNavigate();
 
     //Submit Handler

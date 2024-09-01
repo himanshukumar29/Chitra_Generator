@@ -27,7 +27,7 @@ const validateRepeatPassword = (password, repeatPassword) => {
 
 function Register() {
 
-    const BACKEND_BASE_URL = "https://chitra-generator-backend.onrender.com";
+    const BACKEND_BASE_URL = "https://chitra-generator-backend-wqo1.onrender.com";
     const navigate = useNavigate();
     function errorMsg(noti) {
         toast.error(noti, {
